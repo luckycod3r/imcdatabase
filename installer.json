@@ -1,0 +1,23 @@
+[
+  {
+    "btn" : "VS Code",
+    "link" : "https://az764295.vo.msecnd.net/stable/4cb974a7aed77a74c7813bdccd99ee0d04901215/VSCodeUserSetup-x64-1.79.1.exe"
+  },
+  {
+    "btn" : "VS Code Plugins",
+    "link" : ""
+  },
+  {
+    "btn" : "Node JS",
+    "link" : "https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi"
+  },
+  {
+    "btn" : "Git",
+    "link" : "https://objects.githubusercontent.com/github-production-release-asset-2e65be/23216272/64b6036a-db58-4c45-9517-265a4f98d10f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230614T173738Z&X-Amz-Expires=300&X-Amz-Signature=8841214f75ef8952d12eb0c6eccc63e205e0eded760def9d9d6eb4d5ebe9802d&X-Amz-SignedHeaders=host&actor_id=94208991&key_id=0&repo_id=23216272&response-content-disposition=attachment%3B%20filename%3DGit-2.41.0-64-bit.exe&response-content-type=application%2Foctet-stream"
+  },
+  {
+    "btn" : "Авторизация Git",
+    "link" : "ACTION",
+    "action" : "AuthorizeGit"
+  }
+]
