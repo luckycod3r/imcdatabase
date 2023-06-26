@@ -25,6 +25,11 @@
     "action" : "AuthorizeGit"
   },
   {
+    "btn" : "Скриншотер",
+    "type" : "LINK",
+    "link" : "https://xn--e1affnfjebo2d.xn--p1ai/"
+  },
+  {
     "btn" : "Скачать всё",
     "type" : "ACTION",
     "action" : "downloadAll"
