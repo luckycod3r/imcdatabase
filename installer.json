@@ -5,11 +5,6 @@
     "link" : "https://az764295.vo.msecnd.net/stable/4cb974a7aed77a74c7813bdccd99ee0d04901215/VSCodeUserSetup-x64-1.79.1.exe"
   },
   {
-    "btn" : "VS Code Plugins",
-    "type" : "LINK",
-    "link" : "https://google.com/"
-  },
-  {
     "btn" : "Node JS",
     "type" : "LINK",
     "link" : "https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi"
