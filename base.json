@@ -1,28 +1,32 @@
 [
    [
       "Best Practices",
-      {
-         "name":"Full Rest API",
-         "completed":false
-      },
-      {
-         "name":"Custom Vue Console",
-         "completed":false
-      },
-      {
-         "name":"WebHook Service",
-         "completed":false
-      },
-      {
-         "name":"Docker",
-         "completed":false
-      }
+      [
+         {
+            "name":"Full Rest API",
+            "completed":false
+         },
+         {
+            "name":"Custom Vue Console",
+            "completed":false
+         },
+         {
+            "name":"WebHook Service",
+            "completed":false
+         },
+         {
+            "name":"Docker",
+            "completed":false
+         }
+      ]
    ],
    [
       "ecit.ru",
-      {
-         "name":"Task",
-         "completed":true
-      }
+      [
+         {
+            "name":"Task",
+            "completed":true
+         }
+      ]
    ]
 ]
