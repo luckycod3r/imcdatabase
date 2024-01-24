@@ -33,7 +33,7 @@
          }
       ]
    ],
-    [
+   [
       "W3bWave",
       [
          {
@@ -43,7 +43,7 @@
          {
             "name":"Vue-kit",
             "completed":false
-         },
+         }
       ]
    ]
 ]
