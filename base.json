@@ -3,6 +3,14 @@
       "Best Practices",
       [
          {
+            "name":"ReCaptcha",
+            "completed":false
+         },
+         {
+            "name":"Google Authenticator",
+            "completed":false
+         },
+         {
             "name":"Full Rest API",
             "completed":false
          },
