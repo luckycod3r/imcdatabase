@@ -17,6 +17,10 @@
          {
             "name":"Docker",
             "completed":false
+         },
+         {
+            "name":"Шо таке mixins",
+            "completed":false
          }
       ]
    ],
