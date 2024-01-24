@@ -32,5 +32,18 @@
             "completed":true
          }
       ]
+   ],
+    [
+      "W3bWave",
+      [
+         {
+            "name":"Electron-kit",
+            "completed":false
+         },
+         {
+            "name":"Vue-kit",
+            "completed":false
+         },
+      ]
    ]
 ]
