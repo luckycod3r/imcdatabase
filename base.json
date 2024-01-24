@@ -3,6 +3,9 @@
     "Full Rest API" : {
       "completed" : false,  
     },
+    "Custom Vue Console" : {
+      "completed" : false,
+    },
     "WebHook Service" : {
       "completed" : false,  
     },
