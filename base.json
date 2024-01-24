@@ -1,0 +1,19 @@
+{
+  "practices" : {
+    "Full Rest API" : {
+      "completed" : false,  
+    },
+    "WebHook Service" : {
+      "completed" : false,  
+    },
+    "Docker" : {
+      "completed" : false,
+    }
+  },
+  "ao" : {
+    "Task" : {
+      "completed" : true
+    }
+  },
+  
+}
