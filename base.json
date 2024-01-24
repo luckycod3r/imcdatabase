@@ -25,12 +25,12 @@
       ]
    ],
    [
-      "ecit.ru",
+      "ecit.ru & subprojects",
       [
          {
-            "name":"Task",
-            "completed":true
-         }
+            "name":"ap65.ru/cabinet",
+            "completed":false
+         },
       ]
    ],
    [
