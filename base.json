@@ -1,21 +1,26 @@
-{
-   "practices":{
-      "Full Rest API":{
+[
+   [
+      {
+         "name":"Full Rest API",
          "completed":false
       },
-      "Custom Vue Console":{
+      {
+         "name":"Custom Vue Console",
          "completed":false
       },
-      "WebHook Service":{
+      {
+         "name":"WebHook Service",
          "completed":false
       },
-      "Docker":{
+      {
+         "name":"Docker",
          "completed":false
       }
-   },
-   "ao":{
-      "Task":{
+   ],
+   [
+      {
+         "name":"Task",
          "completed":true
       }
-   }
-}
+   ]
+]
